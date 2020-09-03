@@ -1,5 +1,7 @@
 # Basic-Webscraper
-scrapes images from imgur and google, and the results of a google search.
+Scrapes images from imgur and google and automatically downloads them.
+
+There's a lot of room for improvement, criticism and feedback is very welcome!
 
 ## Installation and Set-up
 Clone the repository, enter the directory and run the command
