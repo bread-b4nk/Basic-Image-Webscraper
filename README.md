@@ -1,4 +1,4 @@
-# Basic-Webscraper
+# Basic-Image-Webscraper
 Scrapes images from imgur and google and automatically downloads them.
 
 There's a lot of room for improvement, criticism and feedback is very welcome!
